@@ -36,10 +36,10 @@
 
 ## 💻 실행 방법
 
-### 1. **설치**
+### **설치**
 
 ```bash
-$ git clone https://github.com/WXXZIN/POS.git
+$ git clone https://github.com/Mustache0318/POS.git
 ```
 ## 💁‍♂️ 프로젝트 팀원
 | Backend | Frontend |
